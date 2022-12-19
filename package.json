@@ -1,0 +1,24 @@
+{
+  "name": "example-project-to-amazon-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendollourencon/example-project-to-amazon-aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendollourencon/example-project-to-amazon-aws/issues"
+  },
+  "homepage": "https://github.com/brendollourencon/example-project-to-amazon-aws#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
